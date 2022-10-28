@@ -79,11 +79,10 @@ void clockwise(int speed)
 ```
 ### OUTPUT:
 
-CIRCUIT
+CIRCUIT DIAGRAM:
 
 ![output](./c1.png)
 
-DIAGRAM:
 
 READINGS:
 
